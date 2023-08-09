@@ -7,10 +7,12 @@
 </template>
 
 <script>
-import listsmenu from '../../components/Menus/listsmenu.vue'
+//import listsmenu from '../../components/Menus/listsmenu.vue'
 
 export default {
-    components: { listsmenu },
+    components: { 
+        //listsmenu
+     },
 }
 </script>
 
