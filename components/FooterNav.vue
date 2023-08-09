@@ -17,7 +17,7 @@
                 Privacy Policies
             </v-btn>
             <v-btn variant="text" class="mx-2" rounded="xl" href="/app/">
-                Access Email
+                Access Workspaces
             </v-btn>
             <v-col class="text-center mt-4" cols="12">
                 {{ new Date().getFullYear() }} — <strong><a href="https://www.meeovi.com/about">The Meeovi Company</a></strong>
